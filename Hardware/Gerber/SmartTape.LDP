@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: C:\Users\sdham\Documents\Work_Semicon\Digital_Tape\Digital_Tape\SmartTape.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=SmartTape-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=SmartTape-slotholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Rect_Holes|DrillFile=SmartTape-rectholes.txt|DrillLayers=gtl,gbl
